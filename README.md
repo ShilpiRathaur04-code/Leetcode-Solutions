@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
