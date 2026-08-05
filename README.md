@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
