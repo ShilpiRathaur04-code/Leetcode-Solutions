@@ -136,9 +136,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
