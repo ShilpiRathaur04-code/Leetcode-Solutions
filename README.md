@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 ## Union-Find
 |  |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
