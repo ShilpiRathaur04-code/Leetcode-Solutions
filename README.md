@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
