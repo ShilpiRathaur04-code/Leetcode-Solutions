@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
