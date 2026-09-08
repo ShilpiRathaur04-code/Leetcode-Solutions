@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Union-Find
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
