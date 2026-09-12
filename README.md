@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Union-Find
 |  |
