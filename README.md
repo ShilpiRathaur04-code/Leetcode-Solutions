@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -305,5 +307,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
