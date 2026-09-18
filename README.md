@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1051-height-checker) |
 ## Simulation
 |  |
 | ------- |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
