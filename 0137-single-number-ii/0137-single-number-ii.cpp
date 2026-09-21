@@ -4,7 +4,7 @@ public:
         unordered_map<int,int>freq;
         int n= nums.size();
         for(int i=0;i<n ;i++){
-            int count = freq[nums[i]]++;
+            freq[nums[i]]++;
         }
         for( auto x : freq){
             if(x.second == 1 ){
