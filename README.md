@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
