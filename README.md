@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
@@ -312,11 +313,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Counting Sort
 |  |
