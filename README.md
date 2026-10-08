@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Union-Find
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Number Theory
 |  |
 | ------- |
