@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
