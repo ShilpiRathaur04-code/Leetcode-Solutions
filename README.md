@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -319,12 +321,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
