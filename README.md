@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
