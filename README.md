@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
