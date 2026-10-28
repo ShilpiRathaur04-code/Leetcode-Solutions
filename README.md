@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
