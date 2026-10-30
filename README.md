@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Enumeration
 |  |
