@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
