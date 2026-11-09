@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -443,12 +445,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0561-array-partition](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Indexed Tree
