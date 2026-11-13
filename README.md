@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Enumeration
 |  |
