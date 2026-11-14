@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quicksort
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
