@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
