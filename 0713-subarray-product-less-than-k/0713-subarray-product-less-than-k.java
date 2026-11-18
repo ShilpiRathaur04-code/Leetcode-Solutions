@@ -1,0 +1,23 @@
+class Solution {
+    public int numSubarrayProductLessThanK(int[] nums, int k) {
+        int n = nums.length;
+        long c=0;
+        if(k<=1){
+            return 0;
+        }
+        for(int i=0;i<n;i++){
+            long p = 1;
+            for(int j=i;j<n;j++){
+                p = p*nums[j];
+                if (p >= k) {
+                    break;
+                }
+                c++;
+
+
+            }
+        }
+        return (int)c;
+        
+    }
+}
