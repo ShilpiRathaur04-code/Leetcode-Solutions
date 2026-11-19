@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
