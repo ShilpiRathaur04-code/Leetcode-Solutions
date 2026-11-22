@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Union-Find
 |  |
 | ------- |
