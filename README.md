@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ShilpiRathaur04-code/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
